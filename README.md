@@ -1,4 +1,4 @@
-# NMEA_message_GPS_data
+# NMEA message GPS data
 Real GPS data in the form of NMEA messages, recorded using a smartphone on a bicycle. 
 
 This repository contains files of real GPS data, of lengths between 10 minutes to about an hour. The data was recorded in the Netherlands, on June 26 and 27, 2021. It was recorded using the app "GPS Info & NMEA Logging", on a Samsung Galaxy A8, using only the GPS antenna (not enhanced by other means). The data was not filtered, smoothed, or enhanced after exporting the data from the app.
