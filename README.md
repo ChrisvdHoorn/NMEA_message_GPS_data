@@ -7,6 +7,6 @@ The .zip maps are divided in runs, and for each run the following selection of .
 - Original data set (NMEA_Log__X_XX_XX__x.m.__XX_XX_XXXX.txt)
 - All NMEA messages formatted properly, without all PSAMDLOK messages (NMEA_all.txt)
 - GPGGA, GPGLL, GPVTG, GPGSV, GLGSV, GPGSA, GNGSA, GPRMC, and BDGSA messages (NMEA_TYPE.txt)
-- A satellite image of the run, made via Matlab
+- A satellite image of the run, made via Matlab (satellite_image.jpg)
 
 Non of the data is anonymized or otherwise altered.
