@@ -10,3 +10,5 @@ The .zip maps are divided in runs, and for each run the following selection of .
 - A satellite image of the run, made via Matlab (satellite_image.jpg)
 
 Non of the data is anonymized or otherwise altered.
+
+The Matlab .m files used to extract and sort the data from the original data set are also available, which may prove useful if you can run them (Matlab 2020b or later needed)
